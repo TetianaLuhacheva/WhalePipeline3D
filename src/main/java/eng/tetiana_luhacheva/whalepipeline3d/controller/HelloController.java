@@ -1,4 +1,4 @@
-package eng.tetiana_luhacheva.whalepipeline3d;
+package eng.tetiana_luhacheva.whalepipeline3d.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

@@ -113,7 +113,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                eng.tetiana_luhacheva.whalepipeline3d/eng.tetiana_luhacheva.whalepipeline3d.HelloApplication
+                                eng.tetiana_luhacheva.whalepipeline3d/eng.tetiana_luhacheva.whalepipeline3d.RunApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
